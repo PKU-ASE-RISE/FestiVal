@@ -1,0 +1,62 @@
+[
+    {
+        "app": "agoda",
+        "target": "find a room in London",
+        "test_name": "AgodaFindHotelTest"
+    },
+    {
+        "app": "agoda",
+        "target": "change the language of the app to French",
+        "test_name": "AgodaLanguageTest"
+    },
+    {
+        "app": "agoda",
+        "target": "check all previous reservations",
+        "test_name": "AgodaPreviousReservationTest"
+    },
+    {
+        "app": "audible",
+        "target": "listen to the sample of the audiobook \"Modern Software Engineering\".",
+        "test_name": "AudibleListenTest"
+    },
+    {
+        "app": "audible",
+        "target": "check my total time spent listening.",
+        "test_name": "AudibleTimeTest"
+    },
+    {
+        "app": "espn",
+        "target": "Show the player stats of Kobe.",
+        "test_name": "EspnPlayerTest"
+    },
+    {
+        "app": "espn",
+        "target": "Show the standings of NBA.",
+        "test_name": "EspnStandingTest"
+    },
+    {
+        "app": "etsy",
+        "target": "give me some gift ideas for wife's birthday",
+        "test_name": "EtsyGiftTest"
+    },
+    {
+        "app": "etsy",
+        "target": "search for toy and add it to favorites",
+        "test_name": "EtsySearchTest"
+    },
+    {
+        "app": "reddit",
+        "target": "turn off auto dark mode and turn on dark mode",
+        "test_name": "RedditDarkModeTest"
+    },
+    {
+        "app": "reddit",
+        "target": "check the price of reddit premium",
+        "test_name": "RedditPremiumTest"
+    },
+    {
+        "app": "reddit",
+        "target": "enter Taylor Swift subreddit though my communities",
+        "test_name": "RedditSubRedditTest"
+    }
+]
