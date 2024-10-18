@@ -1,0 +1,23 @@
+[
+    {
+        "action": "swipe",
+        "index": "1",
+        "text": "",
+        "resource-id": "HomeScreen",
+        "class": "android.widget.ScrollView",
+        "package": "com.ted.android",
+        "content-desc": "Home Screen",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "false",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "scrollable": "true",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "visible-to-user": "true",
+        "bounds": "[0,0][768,1084]"
+    }
+]

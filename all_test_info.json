@@ -1,0 +1,292 @@
+[
+    {
+        "app": "accuweather",
+        "target": "set London for favourites and set default location to London",
+        "test_name": "AccuweatherDefaultLocationTest"
+    },
+    {
+        "app": "accuweather",
+        "target": "set Display Mode to Dark",
+        "test_name": "AccuweatherDisplayModeTest"
+    },
+    {
+        "app": "accuweather",
+        "target": "set London as favourite without enabling notification",
+        "test_name": "AccuweatherFavouriteLocationTest"
+    },
+    {
+        "app": "accuweather",
+        "target": "search for the weather in london",
+        "test_name": "AccuweatherLondonTest"
+    },
+    {
+        "app": "accuweather",
+        "target": "Go to settings and turn off the use of current location",
+        "test_name": "AccuweatherNotificationTest"
+    },
+    {
+        "app": "accuweather",
+        "target": "Open settings and change temperature unit to C",
+        "test_name": "AccuweatherTemperatureTest"
+    },
+    {
+        "app": "autoscout24",
+        "target": "set dark theme",
+        "test_name": "Autoscout24DarkThemeTest"
+    },
+    {
+        "app": "autoscout24",
+        "target": "search for car AC model Cobra and add it to my favourites",
+        "test_name": "Autoscout24FavouriteTest"
+    },
+    {
+        "app": "autoscout24",
+        "target": "search for car 9ff model GT9",
+        "test_name": "Autoscout24SearchTest"
+    },
+    {
+        "app": "bbcnews",
+        "target": "Go to the popular tab and click on the second most read article",
+        "test_name": "BbcnewsTabTest"
+    },
+    {
+        "app": "bbcnews",
+        "target": "view technology headlines",
+        "test_name": "BbcnewsTechnologyTest"
+    },
+    {
+        "app": "castbox",
+        "target": "view technology headlines",
+        "test_name": "CastboxTechnologyTest"
+    },
+    {
+        "app": "chanelweather",
+        "target": "Go to settings and turn off the use of current location",
+        "test_name": "ChanelweatherLocationTest"
+    },
+    {
+        "app": "chanelweather",
+        "target": "Open notification settings and turn off notifications",
+        "test_name": "ChanelweatherNotificationTest"
+    },
+    {
+        "app": "devweather",
+        "target": "Go to settings and turn off the use of current location",
+        "test_name": "DevweatherLocationTest"
+    },
+    {
+        "app": "devweather",
+        "target": "Show me the temperature forecast over New Orleans Louisiana",
+        "test_name": "DevweatherShowTest"
+    },
+    {
+        "app": "diary",
+        "target": "Create a new entry",
+        "test_name": "DiaryCreateTest"
+    },
+    {
+        "app": "diary",
+        "target": "export diary entries",
+        "test_name": "DiaryExportTest"
+    },
+    {
+        "app": "diary",
+        "target": "set a daily reminder to write my diary",
+        "test_name": "DiaryReminderTest"
+    },
+    {
+        "app": "dominos",
+        "target": "go to settings and turn off special offers and deals",
+        "test_name": "DominosSettingTest"
+    },
+    {
+        "app": "goodrx",
+        "target": "add a presciption for aspirin",
+        "test_name": "GoodrxAddPrescriptionTest"
+    },
+    {
+        "app": "goodrx",
+        "target": "check if app version is 5.3.6",
+        "test_name": "GoodrxAppVersionTest"
+    },
+    {
+        "app": "goodrx",
+        "target": "identify a green capsule pill and verify that it is Absorica LD",
+        "test_name": "GoodrxIdentifyPillTest"
+    },
+    {
+        "app": "goodrx",
+        "target": "search for insomnia and check that NSAIDs is a common treatment",
+        "test_name": "GoodrxSearchTreatmentTest"
+    },
+    {
+        "app": "googlechrome",
+        "target": "verify that the app version is 65.0.3325.109",
+        "test_name": "GooglechromeAppVersionTest"
+    },
+    {
+        "app": "googlechrome",
+        "target": "bookmark the home page and check bookmark for the page",
+        "test_name": "GooglechromeBookmarkTest"
+    },
+    {
+        "app": "googlechrome",
+        "target": "open an incognito tab",
+        "test_name": "GooglechromeOpenIncognitoTest"
+    },
+    {
+        "app": "googlenews",
+        "target": "go to my profile",
+        "test_name": "GooglenewsProfileTest"
+    },
+    {
+        "app": "googlenews",
+        "target": "view technology headlines",
+        "test_name": "GooglenewsTechnologyTest"
+    },
+    {
+        "app": "googletranslate",
+        "target": "translate 'hello' to spanish and verify that the result is 'hola'",
+        "test_name": "GoogletranslateHelloTest"
+    },
+    {
+        "app": "googletranslate",
+        "target": "translate 'hello' to French and verify that the result is 'bonjour'",
+        "test_name": "GoogletranslateHelloToFrenchTest"
+    },
+    {
+        "app": "googletranslate",
+        "target": "select Albanian as the translation language and verify that it is in the recent languages",
+        "test_name": "GoogletranslateRecentLanguagesTest"
+    },
+    {
+        "app": "linewebtoon",
+        "target": "check if app version is 2.4.3",
+        "test_name": "LinewebtoonAppVersionTest"
+    },
+    {
+        "app": "linewebtoon",
+        "target": "check the most liked fantasy original is Lore Olympus",
+        "test_name": "LinewebtoonMostLikedOriginalTest"
+    },
+    {
+        "app": "linewebtoon",
+        "target": "open sleep mode",
+        "test_name": "LinewebtoonOpenSleepModeTest"
+    },
+    {
+        "app": "linewebtoon",
+        "target": "search for Lore Olympus by Rachel Smythe",
+        "test_name": "LinewebtoonSearchToonTest"
+    },
+    {
+        "app": "marvelcomics",
+        "target": "change download location to SD card",
+        "test_name": "MarvelcomicsLocationTest"
+    },
+    {
+        "app": "marvelcomics",
+        "target": "check if app version is 3.10.20.310432",
+        "test_name": "MarvelcomicsVersionTest"
+    },
+    {
+        "app": "merriamwebster",
+        "target": "search for hello and check if it is in recent words",
+        "test_name": "MerriamwebsterRecentWordTest"
+    },
+    {
+        "app": "merriamwebster",
+        "target": "search for hello",
+        "test_name": "MerriamwebsterSearchForHelloTest"
+    },
+    {
+        "app": "nasa",
+        "target": "Go to settings and use Dark Mode Theme",
+        "test_name": "NasaDarkmodeTest"
+    },
+    {
+        "app": "nasa",
+        "target": "click on images and view first flight of saturn IB",
+        "test_name": "NasaImageTest"
+    },
+    {
+        "app": "nasa",
+        "target": "go to missions and click on apollo",
+        "test_name": "NasaMissionTest"
+    },
+    {
+        "app": "photomath",
+        "target": "Open the advanced calculator",
+        "test_name": "PhotomathCalculatorTest"
+    },
+    {
+        "app": "photomath",
+        "target": "Change language to Spanish",
+        "test_name": "PhotomathLanguageTest"
+    },
+    {
+        "app": "quizlet",
+        "target": "check that the version of the app is 6.6.2",
+        "test_name": "QuizletAppVersionTest"
+    },
+    {
+        "app": "quizlet",
+        "target": "turn on night mode",
+        "test_name": "QuizletTurnOnNightModeTest"
+    },
+    {
+        "app": "shein",
+        "target": "view my shopping bag",
+        "test_name": "SheinBagTest"
+    },
+    {
+        "app": "shein",
+        "target": "shop by category",
+        "test_name": "SheinCategoryTest"
+    },
+    {
+        "app": "shein",
+        "target": "view fresh & new clothes",
+        "test_name": "SheinNewTest"
+    },
+    {
+        "app": "soundhound",
+        "target": "Open settings and clear search history",
+        "test_name": "SoundhoundHistoryTest"
+    },
+    {
+        "app": "soundhound",
+        "target": "Play Christmas Music",
+        "test_name": "SoundhoundMusicTest"
+    },
+    {
+        "app": "ted",
+        "target": "click on \"Inside the mind of a master procrastinator\" Ted Talk and scroll down to read more information about the talk and speaker",
+        "test_name": "TedSearchTest"
+    },
+    {
+        "app": "ted",
+        "target": "take me to the trending section",
+        "test_name": "TedTrendingTest"
+    },
+    {
+        "app": "transit",
+        "target": "go to settings",
+        "test_name": "TransitSettingTest"
+    },
+    {
+        "app": "tripadvisor",
+        "target": "add a trip with name foobar",
+        "test_name": "TripadvisorAddTripWithNameTest"
+    },
+    {
+        "app": "tripadvisor",
+        "target": "change language to Chinese (China)",
+        "test_name": "TripadvisorLanguageTest"
+    },
+    {
+        "app": "tripadvisor",
+        "target": "change trip target to London and search for Buckingham Palace",
+        "test_name": "TripadvisorSearchTest"
+    }
+]

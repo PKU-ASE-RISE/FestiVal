@@ -1,0 +1,23 @@
+[
+    {
+        "action": "click",
+        "index": "3",
+        "text": "",
+        "resource-id": "com.zzkko:id/bt7",
+        "class": "android.widget.FrameLayout",
+        "package": "com.zzkko",
+        "content-desc": "Cart",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "visible-to-user": "true",
+        "bounds": "[462,1072][615,1184]"
+    }
+]

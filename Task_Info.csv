@@ -1,0 +1,72 @@
+TaskID,Source,App,Brief Task Description,Length
+T1,MoTIF,Accuweather,turn off current location,4
+T2,MoTIF,Accuweather,change temperature unit,3
+T3,MoTIF,BBCNews,article,2
+T4,MoTIF,BBCNews,technology headlines,3
+T5,MoTIF,Castbox,technology headlines,3
+T6,MoTIF,Chanelweather,turn off location,3
+T7,MoTIF,Chanelweather,turn off notifications,4
+T8,MoTIF,Devweather,turn off location,3
+T9,MoTIF,Devweather,show temperature,4
+T10,MoTIF,Diary,create,3
+T11,MoTIF,Diary,export,3
+T12,MoTIF,Diary,set reminder,3
+T13,MoTIF,Dominospizza,turn off offers,3
+T14,MoTIF,Googlenews,profiles,1
+T15,MoTIF,Googlenews,technology headlines,2
+T16,MoTIF,NASA,set dark mode,2
+T17,MoTIF,NASA,click apollo,3
+T18,MoTIF,NASA,search images,6
+T19,MoTIF,Photomath,language,5
+T20,MoTIF,Photomath,calculator,1
+T21,MoTIF,Shein,shop,1
+T22,MoTIF,Shein,new clothes,1
+T23,MoTIF,Shein,shopping bag,1
+T24,MoTIF,Soundhound,clear history,6
+T25,MoTIF,Soundhound,play music,4
+T26,MoTIF,TED,search,5
+T27,MoTIF,TED,trending section,1
+T28,MoTIF,Transit,settings,1
+T29,Augmented,Accuweather,set default,13
+T30,Augmented,Accuweather,set display mode,3
+T31,Augmented,Accuweather,set favourite,5
+T32,Augmented,Accuweather,set current location,3
+T33,Augmented,Autoscout24,set display mode,5
+T34,Augmented,Autoscout24,set favorite,10
+T35,Augmented,Autoscout24,search,7
+T36,Augmented,Goodrx,add prescription,5
+T37,Augmented,Goodrx,app version,3
+T38,Augmented,Goodrx,identify pill,6
+T39,Augmented,Goodrx,search,2
+T40,Augmented,Googlechrome,app version,4
+T41,Augmented,Googlechrome,bookmark,4
+T42,Augmented,Googlechrome,incognito mode,2
+T43,Augmented,Googletranslate,translate,3
+T44,Augmented,Googletranslate,translate&change language,7
+T45,Augmented,Googletranslate,recent languages,3
+T46,Augmented,Linewebtoon,app version,7
+T47,Augmented,Linewebtoon,most liked,6
+T48,Augmented,Linewebtoon,sleep mode,5
+T49,Augmented,Linewebtoon,search,2
+T50,Augmented,Marvelcomics,save location,7
+T51,Augmented,Marvelcomics,app version,3
+T52,Augmented,Merriamwebster,recent words,4
+T53,Augmented,Merriamwebster,search,2
+T54,Augmented,Quizlet,app version,3
+T55,Augmented,Quizlet,display mode,5
+T56,Augmented,Tripadvisor,add trip,4
+T57,Augmented,Tripadvisor,language,6
+T58,Augmented,Tripadvisor,search,5
+,,,,
+T59,Major Revision,Audible,listen to audiobook,4
+T60,Major Revision,Audible,check total time,4
+T61,Major Revision,ESPN,show player stats,3
+T62,Major Revision,ESPN,show standings,4
+T63,Major Revision,Etsy,search and add,4
+T64,Major Revision,Etsy,gift recommend,5
+T65,Major Revision,Reddit,dark mode,6
+T66,Major Revision,Reddit,subreddit,2
+T67,Major Revision,Reddit,check premium price,6
+T68,Major Revision,Agoda,change language,5
+T69,Major Revision,Agoda,check reservations,2
+T70,Major Revision,Agoda,find a room,5
